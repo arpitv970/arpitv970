@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Arpit</h1>
-<h3 align="center">I'm passionate for ML & DL from India.</h3>
+<h3 align="center">I'm passionate for ML & DL from India <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif"><img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40" style="max-width:100%;"></a></h3>
 
 
 ## 🙋‍♂️ About Me
