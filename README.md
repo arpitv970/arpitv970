@@ -72,4 +72,4 @@
 
 ## ❤ Followers
 
-<p><a herf="https://github.com/arpitv970?tab=followers"><img src="https://img.shields.io/github/followers/arpitv970?style=plastic" alt="GitHub Followers"></a></p>
+![GitHub followers](https://img.shields.io/github/followers/arpitv970?style=for-the-badge)
