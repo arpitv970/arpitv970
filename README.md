@@ -71,6 +71,6 @@
 
 </p>
 
-## ❤ Follower
+## ❤ Followers
 
 ![GitHub followers](https://img.shields.io/github/followers/arpitv970?style=for-the-badge)
