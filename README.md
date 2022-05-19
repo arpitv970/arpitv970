@@ -1,13 +1,6 @@
-<!-- <p align="center">
-<a href="#"><img width="65%" height="65%" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" height="175px"/></a>
-</p> -->
-
-<img 
-    style="display: block; 
-           margin: auto;"
-    src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" 
-    alt="Our logo">
-</img>
+<div align="center">
+<a href="#"><img width="65%" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true"/></a>
+</div>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Arpit</h1>
 <h3 align="center">I'm MERN Stack Developer and passionate for ML & DL from India <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif"><img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40" style="max-width:100%;"></a></h3>
