@@ -1,9 +1,9 @@
-<p style="text-align: center;">
+<p align="center">
 <a href="#"><img width="65%" height="65%" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" height="175px"/></a>
 </p>
 
-<h1 style="text-align: center;">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Arpit</h1>
-<h3 style="text-align: center;">I'm MERN Stack Developer and passionate for ML & DL from India <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif"><img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40" style="max-width:100%;"></a></h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Arpit</h1>
+<h3 align="center">I'm MERN Stack Developer and passionate for ML & DL from India <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif"><img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40" style="max-width:100%;"></a></h3>
 
 
 ## 🙋‍♂️ About Me
@@ -36,7 +36,7 @@
 ## 📊 My Github Stats
 
   <br/>
-    <p style="text-align: center;">
+    <p align="center">
     <a href="https://github.com/arpitv970/github-readme-stats"><img alt="Arpit Verma's Github Stats" src="https://github-readme-stats.vercel.app/api?username=arpitv970&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
     <a href="https://github.com/arpitv970/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Arpit Verma's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=arpitv970&theme=react&hide_border=true&stroke=0000&background=060A0CD0"/>
