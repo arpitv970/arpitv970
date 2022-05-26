@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="#"><img width="65%" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true"/></a>
+    <a href="#"><img width="100%" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4780c94q7z5bek6sh4ao4qc34vi3unrs15a03mp3zo&rid=giphy.gif&ct=g"/></a>
 </div>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Arpit</h1>
