@@ -1,8 +1,7 @@
 <div align="center">
     <a href="#"><img width="60%" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4780c94q7z5bek6sh4ao4qc34vi3unrs15a03mp3zo&rid=giphy.gif&ct=g"/></a>
 </div>
-
-<h1 align="center">Hi <img src="https://tenor.com/bEAlI.gif" width="30px">, I'm Arpit</h1>
+<h1 align="center">Hi <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXf8aWO-uixesN6nvWWepJkRouxABLJu7lYH3RSNgariquIpNIX4s12dh2mpSPKqyDFMk&usqp=CAU" width="30px">, I'm Arpit</h1>
 <h3 align="center">I'm MERN Stack Developer and passionate for ML & DL from India <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif"><img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40" style="max-width:100%;"></a></h3>
 
 
