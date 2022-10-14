@@ -57,6 +57,9 @@
 ## 🎴 Badges
 [![@arpitv970's Holopin board](https://holopin.me/arpitv970)](https://holopin.io/@arpitv970)
 
+<br/>
+<br/>
+
 ## Connect with me:
 <p align="left">
 
