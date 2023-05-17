@@ -7,9 +7,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **NextJS**
 
-- 🔭 I’m currently working on **MERN Stack**
+- 🔭 I’m currently working on [**AI Powered Chat Application**](https://github.com/arpitv970/ai-powered-chat-application)
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
