@@ -7,9 +7,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **MySQL, PSQL & Adv Backend Stuff**
 
-- 🔭 I’m currently working on [**AI Powered Chat Application**](https://github.com/arpitv970/ai-powered-chat-application)
+- 🔭 I’m currently working on [**Portfolio**](https://github.com/arpitv970/portfolio)
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
