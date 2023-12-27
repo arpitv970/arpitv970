@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **MySQL, PSQL & Adv Backend Stuff**
+- 🌱 I’m currently learning **MySQL, PSQL | Adv Backend Stuff(GraphQL, tRPC, AWS) | TypeScript and its utilities(Zod)**
 
 - 🔭 I’m currently working on [**Portfolio**](https://github.com/arpitv970/portfolio)
 
