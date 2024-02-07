@@ -2,7 +2,7 @@
     <a href="#"><img width="60%" src="https://data.whicdn.com/images/260776147/original.gif"/></a>
 </div>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Arpit</h1>
-<h3 align="center">I'm MERN Stack Developer and exploring DevOps from India <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif"><img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40" style="max-width:100%;"></a></h3>
+<h3 align="center">I'm Full Stack Developer and exploring DevOps from India <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif"><img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40" style="max-width:100%;"></a></h3>
 
 
 ## 🙋‍♂️ About Me
